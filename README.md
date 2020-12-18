@@ -31,4 +31,5 @@ SN_compiledata.py
 
 # Publications
 https://arxiv.org/pdf/2005.01782.pdf
+
 https://arxiv.org/pdf/2011.03068.pdf
