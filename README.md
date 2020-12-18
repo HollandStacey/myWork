@@ -1,5 +1,5 @@
 # myWork
-A sampling of the code I have written at Thacher
+This is a sampling of the code I have produced during my time in the Thacher Astronomy Research Program. These scripts are designed to do data analysis on the photometry from our observatory. Specifically, they calibrate and run analysis on supernovae data (denoted at SN). 
 
 # Freshmen Year
 phot_pipe.py
