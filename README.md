@@ -2,7 +2,8 @@
 A sampling of the code I have written at Thacher
 
 # Freshmen Year
-phot_pipe.py \n
+phot_pipe.py
+
 Quick_Phot_Script.py
 
 # Sophomore Year
